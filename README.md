@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Abdulrhman
-- 👀 I’m interested about a computer science & physics ;)
-- 🌱 I’m currently learning front-end &  javascript 
-- I have some knowledge in Python & Swift
+- 👀 Student at UQU and one of the student of Tuwaiq academy ;)
+- Intersted in Python, scientifc computing, astronomy and Physics.
+- 
