@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Abdulrhman
-- 👀 Student at UQU and one of the student of Tuwaiq academy ;)
+- 👀 Computer science student at UQU
 - Intersted in scientifc computing, mathematics and others ;).
